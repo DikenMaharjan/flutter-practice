@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "410897441945",
+    "project_id": "flutter-30d1c",
+    "storage_bucket": "flutter-30d1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410897441945:android:4640351fc58c3e0cf0c408",
+        "android_client_info": {
+          "package_name": "com.example.certyyflutter.certyyflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410897441945-eoh5rc2k33ed578jornj9b6p75hq273j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtS6abhgdEYaK0F7SU_57Y8YEHLZdoVV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410897441945-eoh5rc2k33ed578jornj9b6p75hq273j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410897441945-kgbes3ahks2nupuqun1raud5fljq72kl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.certyyflutter.certyyflutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
